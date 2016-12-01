@@ -1,6 +1,6 @@
-package org.salonlike.repository;
+package org.example.repository;
 
-import org.salonlike.domain.User;
+import org.example.domain.User;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

@@ -1,4 +1,4 @@
-package org.salonlike.domain;
+package org.example.domain;
 
 /**
  * Created by Dom Raven on 16/11/2016.
@@ -6,7 +6,6 @@ package org.salonlike.domain;
 public enum RoleType {
 
     ROLE_ADMIN,
-    ROLE_USER,
-    ROLE_MANAGER
+    ROLE_USER
 
 }

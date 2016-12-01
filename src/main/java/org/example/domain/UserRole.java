@@ -1,4 +1,4 @@
-package org.salonlike.domain;
+package org.example.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
